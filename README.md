@@ -5,7 +5,7 @@ A python and NodeJS dev.
 ------------------------
 
 * 🌍  I'm based in Viet Nam
-* ✉️  You can contact me at [2chidiepalz@proton.me](mailto:2chidiepalz@proton.me)
+* ✉️  You can contact me at [ngocdiep@ngocdiep.c1.is](mailto:2chidiepalz@proton.me)
 * 🧠  I'm learning NodeJS
 
 ### Skills
